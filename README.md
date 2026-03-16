@@ -1,4 +1,5 @@
-# Hi, this is Yi, you can also call me Claire
+# About me 
+Hi, this is Yi, also go by Claire 
 Opinions are mine. 
 Thinking about agents, tools, and the future of human–AI collaboration.
 
