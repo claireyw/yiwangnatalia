@@ -1,4 +1,4 @@
-Hi, this is Yi, also go by Claire. 🐱
+Hi, this is Yi, also go by Renee. 🐱
 
 Currently exploring:
 - AI-native product building
